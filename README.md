@@ -1,5 +1,5 @@
 # تِبيان — Tibyan
-
+رابط تجربة المشروع:https://superlative-gingersnap-0e4e88.netlify.app/
 > **All rights reserved.** The code in this repository is published for viewing only; no licence is granted to use, copy, modify or redistribute it. Each data source keeps its own licence and terms (Quran text and font, hadith files, tafsir): see [`docs/LICENSES.md`](docs/LICENSES.md).
 >
 > **جميع الحقوق محفوظة.** الكود منشور للاطلاع فقط، ولا يُمنح أي ترخيص لاستخدامه أو نسخه أو تعديله أو إعادة توزيعه. ولكل مصدر بيانات رخصته وشروطه (انظر `docs/LICENSES.md`).
